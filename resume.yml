@@ -1,22 +1,22 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/jskherman/cv.typ/main/cv.typ.schema.json
 
 personal:
-  name: Waseem Riaz
-  email: waseem.riaz.9999@gmail.com
-  phone: (+91) 86965 03303
+  name: Durga Rani Das
+  email: durgaranidas24@gmail.com
+  phone: (+91) 88223 37125
   url: 
   location:
-    city: Chennai
-    region: Tamil Nadu
-    postalCode: 603203
+    city: Port Blair
+    region: Andaman and Nicobar Islands
+    postalCode: 744102
     country: India
   profiles:
     - network: LinkedIn
-      username: Waseem Riaz
-      url: https://linkedin.com/in/waseem-riaz
+      username: Durga Rani Das
+      url: https://linkedin.com/in/durgaranidas
     - network: GitHub
-      username: waseemR02
-      url: https://github.com/waseemR02
+      username: durgad24
+      url: https://github.com/durgad24
 
 about: Currently enrolled as final year student. Worked on projects involving robotics, rover, embedded systems, ROS2 and deeplearning.
 
