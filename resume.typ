@@ -102,7 +102,7 @@
 #show: doc => cvinit(doc)
 
 #cvheading(cvdata, uservars)
-// #cvabout(cvdata)
+#cvabout(cvdata)
 #cveducation(cvdata)
 #cvskills(cvdata)
 #cvwork(cvdata)
@@ -110,7 +110,7 @@
 #v(-0.5em)
 #cvprojects(cvdata)
 #cvawards(cvdata)
-// #cvcertificates(cvdata)
+#cvcertificates(cvdata)
 #cvpublications(cvdata)
 // #cvlangsinterests(cvdata)
 #cvreferences(cvdata)

@@ -8,7 +8,7 @@ personal:
   location:
     city: Port Blair
     region: Andaman and Nicobar Islands
-    postalCode: 744102
+    postalCode: 7441102
     country: India
   profiles:
     - network: LinkedIn
@@ -18,96 +18,107 @@ personal:
       username: durgad24
       url: https://github.com/durgad24
 
-about: Currently enrolled as final year student. Worked on projects involving robotics, rover, embedded systems, ROS2 and deeplearning.
+about: Currently enrolled as final year student. Worked in Toxicology. Currently working on projects involving Microplastics and Nanoparticles.
 
 work:
-  - organization: Sandisk
-    url: https://www.sandisk.com/
+  - organization: Kristu Jayantia College
+    url: https://kristujayanti.edu.in/
     location: Bangalore, India
     positions:
-      - position: System Verification Intern
-        startDate: 2024-09-23
-        endDate: "present"
+      - position: Intern
+        startDate: 2025-06-10
+        endDate: 2025-07-19
         highlights:
-            - Enabled a testing platform and developed an application for regression analysis, scheduling and state management, reducing manual testing time by 90%
-            - Achieved 8x speed improvement in a replay engine through process pooling, batching, streaming and memory mapping
-            - Developed a new cross-platform tool for capturing usb traffic
-  - organization: Siemens Technology and Services Pvt. Ltd.
-    url: https://www.siemens.com/in/en.html
-    location: Bangalore, India
-    positions:
-      - position: Intern at PAMC
-        startDate: 2024-01-08
-        endDate: 2024-11-29
-        highlights:
-            - Developed `Seiri`, a KIVY GUI tool for CSV/XLSX validation and conversion
-            - Created `Conduit`, a Flask app integrating Azure DevOps data with Grafana dashboards
+            - isolation and pure culture of plant associated bacteria and fungi
+            - antimicrobial assays,biochemical characterization (starch hydrolysis,TSI, broth test),DNA isolation, glycerol stock preparation
+            - Nanoparticle synthesis and FTIR analysis
+
 education:
-  - institution: SRM Institute of Science and Technology
-    url: https://www.srmist.edu.in/
-    area: Computer Science and Engineering
-    studyType: B.Tech
-    startDate: 2021-09-01
-    endDate: 2025-06-30
-    location: Kattankulathur, Tamil Nadu, India 
+  - institution: Pondicherry University,Port Blair Campus
+    url: https://www.pondiuni.edu.in/
+    area: ocean studies and marine Biology
+    studyType: M.Sc.
+    startDate: 2024-07-28
+    endDate: "present"
+    location: Brookshabad, Port Blair, India 
     honors:
-      - 9.86 CGPA
+      - 9 CGPA
     courses:
-      - Embedded Systems Design, Offensive Security, GPU Programming, PCB Designing
+      - Marine Microbiology, Biochemisty, Genetics, Aquaculture, Fisheries, Chemical and Physical Oceanography
     highlights:
-      # - "*Electives*: Embedded Systems Design, Quantum Computation, Offensive Security, GPU Programming, PCB Designing"
-      # - "*Project*: Under the mentorship of Dr.K.Meenakshi, working on _Animal Detection and Alert System_, focused in 
-      # optimizing deeplearning models like yolov5 and mobilenet-SSD, and writing paper on tuning hyperparameters with metaheuristic algorithms like `GA`, `IWO` and `PSO`"
+      - "*Electives*: EIA"
+
+  - institution: Royal Global University
+    url: https://www.rgu.ac/
+    area: Zoology
+    studyType: B.Sc.
+    startDate: 2020-08-23
+    endDate: 2023-10-30
+    location: Guwahati, Assam
+    honors: 
+      - 8.3 CGPA 
+    courses: 
+      - Immunology, Endocrinology, Genetics and Genomics, Molecular Biology, Developmental Biology, Evolutionsry Biology communicative english, behavioral Science
+    highlights:
+      - "*Elective*: Business , Psychology"
 
 affiliations:
-  - organization: Team Rudra
-    position: Developer Head
-    location: SRM IST, Kattankulathur, Tamil Nadu, India
-    url: https://www.srmrudra.com/
-    startDate: 2022-04-30
-    endDate: "present"
+  - organization: Campus Representative Committee
+    position: Art and Culture Representative
+    location: Pondicherry University, Port Blair, India
+    url: 
+    startDate: 2024-09-02
+    endDate: 2025-04-20
     highlights:
-      - Led development of embedded systems and ROS2-based control software for competitive rover challenges, focusing on team mentorship and cross-subsystem integration
-
+      - Involved in planning, organizing and hosting all sports, Arts and Culture events in the University Fest
+  - organization: Royal Global University
+    position: Volunteer Head
+    location: Guwahati, Assam, India
+    url: 
+    startDate: 2021-12-02
+    endDate: 2023-03-20
+    highlights:
+      - Volunteer Head of All India Inter University Women Baseball Championship 2022
+      - Volunteer of East Zone Inter University (Women and Men) Table Tennis Championship 2021
+      - Volunteer of All India Inter University (Women and Men) Baseball Championship 2022
+         
 awards:
-  - title: Global Rank 3rd in International Rover Challenge
-    date: 2024-01-29
-    issuer: Space Robotics Society
-    url: https://drive.google.com/file/d/1_ebH2MqSpNfWNbZqpe0Ak5FTrL2B_8mr/view?usp=sharing
-    location: Coimbatore, Tamil Nadu, India
+  - title: 1st in Beauty from Waste Inter Univeristy Andaman College (ANCO) Fest
+    date: 2025-05-21
+    issuer: Andaman College
+    url: 
+    location: Port Blair, India
     highlights:
-  - title: Global Rank 5th in International Rover Design Challenge
-    date: 2023-10-20
-    issuer: Space Robotics Society
-    url: https://drive.google.com/file/d/12R4VZzB9ERelN0WwLCmrgPU3LodgBRYN/view?usp=sharing
-    location: Chennai, Tamil Nadu, India
+  - title:  1st in Painting cum Workshop, Seva Parv 2025
+    date: 2025-10-07
+    issuer: Ministry of Culture, Government of India, A&N Administration, Director of Arts and Culture
+    url: 
+    location: Port Blair, India
     highlights:
-  # - title: Global Rank 7th in International Rover Challenge
-  #   date: 2023-01-30
-  #   issuer: Space Robotics Society
-  #   url: 
-  #   location: Bangalore, India
-  #   highlights:
-  # - title: Global Rank 8th in International Rover Design Challenge
-  #   date: 2022-10-29
-  #   issuer: Space Robotics Society
-  #   url: https://drive.google.com/file/d/1eOwaZb4CX9R_Low_-fd748czsYjzDUtT/view?usp=sharing
-  #   location: Chennai, Tamil Nadu, India
-  #   highlights:
+  - title: 1st in Intra University Kabaddi competition
+    date: 2023-02-08
+    issuer: Royal Global University
+    url:
+    location: Guwahati, Assam
+    highlights:
 
 certificates:
-  - name: "Embedded Systems Programming"
-    date: 2023-11-01
-    issuer: Microchip
-    url: https://drive.google.com/drive/folders/11TNocqWHwe8Vzv4GgQVUBax4pRYtd6Y7?usp=sharing
-  - name: "Introduction to Cybersecurity and Fundamentals of Network and Cloud Security"
-    date: 2023-07-01
-    issuer: Palo Alto
-    url: https://drive.google.com/drive/folders/1f6fjV3zFfvQFF_Xvy-OlCmUJoY9FugGG?usp=sharing
-  - name: "Matlab Optimization onRamp"
-    date: 2023-10-27
-    issuer: MathWorks
-    url: https://drive.google.com/drive/folders/1YYgTaczPAYAP2t4Me5Af5KaJXQONdPty?usp=sharing
+  - name: "Training Programe on Basics of Microscopy"
+    date: 2023-03-28
+    issuer: Guwahati Biotech Park, Assam
+    url: https://drive.google.com/file/d/1XoqAffOMCOAjWDJVeOUGxrYYsCOxmLIM/view?usp=drivesdk
+  - name: "National Training Program in Development on Freshwater Pearl Culture for Entrepreneurship Development"
+    date: 2022-11-13
+    issuer: Cotton University, Asssam
+    url: https://drive.google.com/file/d/1kC-I3TK1kgJAamgYbt0YkNtynUNPbt90/view?usp=drivesdk
+  - name: "Diploma in Fine Arts"
+    date: 2017-09-10
+    issuer: Bangiya Sangeet Kala Kendra, Kolkata
+    url: https://drive.google.com/file/d/1lNZ9aoW1-LCIGCuO7LWZJk2PmlxE56Jf/view?usp=drivesdk
+  - name: "Training Programme on Remote Sensing and GIS"
+    date: 2024-11-29
+    issuer: Indian Space Academy
+    url: https://drive.google.com/file/d/1m0gERooz8HROsQgSoZvXHSJ9HTXbCbem/view?usp=drivesdk
 
 publications:
   # - name: A convolutional neural network for predicting Greenland glacier melt and glacial water flow
@@ -116,92 +127,95 @@ publications:
   #   url: https://example.com
 
 projects:
-  - name: Kyvernitis
-    url: https://github.com/waseemR02/kyvernitis
-    affiliation: Team Rudra
-    startDate: 2023-08-01
-    endDate: 2024-01-15
+  - name: Toxic and Genotoxic effects of glyphosate on anuran tadpole
+    url:
+    affiliation: Royal Global University
+    startDate: 2022-12-01
+    endDate: 2023-05-25
     highlights:
-      - Programmed Blackpill microcontrollers as daughter boards to manage rover subsystems - arm, bio-arm, astronaut's box
-      - Implemented `CAN` interface communication with pixhawk and later directly through 433 MHz
-      - Utilized Zephyr's board-agnostic approach with device tree configurations for cross-platform hardware compatibility
-
-  - name: Mother
-    url: https://github.com/waseemR02/kyvernitis/tree/main/mother
-    affiliation: Team Rudra
-    startDate: 2024-03-01
-    endDate: 2024-06-01
+      - Conducted a toxicological and genotoxic study on glyphosate herbicide using anuran tadpoles (developmental stages 26–31)
+      - In-vitro performed micronucleus and comet assays to assess DNA damage
+      - In-vivo tests including LD₅₀ determination, survivability, and sub-lethal ecotoxicological analysis
+      - Gained practical skills in dose preparation, experimental design, slide preparation, staining, microscopy and statistical data analysis
+  - name: Nanoparticles and its Bioprospecting
+    url: 
+    affiliation: Pondicherry University
+    startDate: 2025-09-22
+    endDate: "present"
     highlights:
-      - Implemented a hardware-level differential drive system to control the rover's movement.
-      - Integrated IMU and wheel encoders to derive odometry data, to track rover's position and orientaion
-      - Implemented a PID control system for precise movement and positioning of the rover's arm joints.
-      - Established an interface with an Autonomous Navigation Stack via UART, using COBS serialization.
+      - Synthesis of Silver nanoparticles from Mangroves, analysis and bioprospecting of the nanoparticles
+  # - name: Microplastic
 
 skills:
-  # - category: Soft Skills
-  #   skills:
-  #     - Communication
-  #     - Critical Thinking
-  #     - Problem Solving
-  #     - Time Management
-  #     - Technical Writing
-  - category: Programming
+  - category: Soft Skills
     skills:
-      - Python
-      - MATLAB
-      - Nodejs
-      - Typst
-      - LaTeX
-      - C
-      - Rust
-      - C++
-      - HTML
-      - CSS
+      - Communication
+      - Critical Thinking
+      - Problem Solving
+      - Time Management
+      - Technical Writing
+  - category: Lab
+    skills:
+      - Bacterial culture and isolation from soil, animal and plants
+      - Bioprospecting
+      -  Nanoparticles synthesis
+      - Microplastic
+      - toxicology
+  - category: Device and Techniques
+    skills:
+      - SDS PAGE
+      - Types of electron and Light Microscopes
+      - PCR 
+      - Types of Chromatography
+      - Agarose gel electrophoresis
+      - solid State Fermentation
+      - types of Chromatography
+      - Toxicity Assay
+  - category:	Bioinformatics
+    skills:
+      - Blast Analysis
+  - category: Software
+    skills:
+       - QGIS
+       - Google Earth Engine
+       - ArcGIS
+       - C++
+       - Power Point
+       - Word
+       - Excel
   - category: Miscellaneous
     skills:
-      - Git
-      - Docker
-      - Linux
-      - Shell (bash/zsh)
-      - vim
-  - category: Libraries
-    skills:
-      - Pytorch
-      - TensorFlow
-      - Scikit-learn
-      - OpenCV
-      - Pandas
-      - Numpy
-      - Matplotlib
-      - Zeromq
-  - category: Technologies
-    skills:
-      - Zephyr RTOS
-      - Embedded Systems
-      - ROS2
-      - Deeplearning
-      - Computer Vision
-  - category: Embedded Systems and Hardware
-    skills:
-      - STM32
-      - Raspberry Pico
-      - ESP32
-      - Pixhawk
-      - CAN
-      - UART
-      - I2C
-      - SPI
-      - USB3, USB4, PCIe, NVMe
+      - Swimming
+      - Feild Sampling
+      - Art and Craft 
+  # - category: Technologies
+    # skills:
+      # - Zephyr RTOS
+      # - Embedded Systems
+      # - ROS2
+      # - Deeplearning
+      # - Computer Vision
+  # - category: Embedded Systems and Hardware
+    # skills:
+      # - STM32
+      # - Raspberry Pico
+      # - ESP32
+      # - Pixhawk
+      # - CAN
+      # - UART
+      # - I2C
+      # - SPI
+      # - USB3, USB4, PCIe, NVMe
 
 languages:
   - language: English
     fluency: Professional proficiency
   - language: Hindi
     fluency: Native Speaker
-  - language: French
-    fluency: Basic proficiency
+  # - language: 
+    # fluency: Basic proficiency
 
-interests:
+# interests:
   - Video Games
   - Anime
   - Reading Fictional and Fantasy novels
