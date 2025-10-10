@@ -18,7 +18,7 @@ personal:
       username: durgad24
       url: https://github.com/durgad24
 
-about: Currently enrolled as final year student. Worked in Toxicology. Currently working on projects involving Microplastics and Nanoparticles.
+about: Currently enrolled as final year master's student in Pondicherry University. Worked in Toxicology. Currently working on projects involving Microplastics and Nanoparticles.
 
 work:
   - organization: Kristu Jayantia College
@@ -29,18 +29,19 @@ work:
         startDate: 2025-06-10
         endDate: 2025-07-19
         highlights:
-            - isolation and pure culture of plant associated bacteria and fungi
-            - antimicrobial assays,biochemical characterization (starch hydrolysis,TSI, broth test),DNA isolation, glycerol stock preparation
-            - Nanoparticle synthesis and FTIR analysis
+            - Worked on isolation and pure culture of plant-associated bacteria and fungi.
+            - Prepared antimicrobial assays and glycerol stock.
+            - Worked on biochemical characterization (starch hydrolysis,TSI, broth test) and DNA isolation.
+            - Performed nanoparticle synthesis and FTIR analysis.
 
 education:
-  - institution: Pondicherry University,Port Blair Campus
+  - institution: Pondicherry University
     url: https://www.pondiuni.edu.in/
-    area: ocean studies and marine Biology
+    area: Ocean Studies and Marine Biology
     studyType: M.Sc.
     startDate: 2024-07-28
     endDate: "present"
-    location: Brookshabad, Port Blair, India 
+    location: Port Blair, Andaman and Nicobar Islands
     honors:
       - 9 CGPA
     courses:
@@ -58,19 +59,21 @@ education:
     honors: 
       - 8.3 CGPA 
     courses: 
-      - Immunology, Endocrinology, Genetics and Genomics, Molecular Biology, Developmental Biology, Evolutionsry Biology communicative english, behavioral Science
+      - Immunology, Endocrinology, Genetics and Genomics, Molecular Biology, Developmental Biology, Evolutionary Biology, Communicative English, Behavioral Science
     highlights:
-      - "*Elective*: Business , Psychology"
+      - "*Electives*: Business, Psychology, First-Aid"
 
 affiliations:
   - organization: Campus Representative Committee
     position: Art and Culture Representative
-    location: Pondicherry University, Port Blair, India
+    location: Pondicherry University, India
     url: 
     startDate: 2024-09-02
     endDate: 2025-04-20
     highlights:
-      - Involved in planning, organizing and hosting all sports, Arts and Culture events in the University Fest
+      - Part of organizing an annual cultural fest for the university, with responsibilites ranging from management, event scheduling to hosting.
+      - Designed a magazine and the logo for the cultural fest, Anekaragam.
+      - Was responsible for planning, organizing and hosting sports events for the fest.
   - organization: Royal Global University
     position: Volunteer Head
     location: Guwahati, Assam, India
@@ -78,24 +81,22 @@ affiliations:
     startDate: 2021-12-02
     endDate: 2023-03-20
     highlights:
-      - Volunteer Head of All India Inter University Women Baseball Championship 2022
-      - Volunteer of East Zone Inter University (Women and Men) Table Tennis Championship 2021
-      - Volunteer of All India Inter University (Women and Men) Baseball Championship 2022
+      - Managed registrations, accomodations and volunteering work for All India Inter University (Women and Men) Baseball Championship, 2022 and East Zone Inter University (Women and Men) Table Tennis Championship, 2021
          
 awards:
   - title: 1st in Beauty from Waste Inter Univeristy Andaman College (ANCO) Fest
     date: 2025-05-21
     issuer: Andaman College
     url: 
-    location: Port Blair, India
+    location: Port Blair, Andaman and Nicobar Islands
     highlights:
   - title:  1st in Painting cum Workshop, Seva Parv 2025
     date: 2025-10-07
     issuer: Ministry of Culture, Government of India, A&N Administration, Director of Arts and Culture
     url: 
-    location: Port Blair, India
+    location: Port Blair, Andaman and Nicobar Islands
     highlights:
-  - title: 1st in Intra University Kabaddi competition
+  - title: 1st in Intra University Kabaddi Competition
     date: 2023-02-08
     issuer: Royal Global University
     url:
@@ -127,52 +128,43 @@ publications:
   #   url: https://example.com
 
 projects:
-  - name: Toxic and Genotoxic effects of glyphosate on anuran tadpole
+  - name: Toxic and Genotoxic effects of Glyphosate on Anuran Tadpole
     url:
     affiliation: Royal Global University
     startDate: 2022-12-01
     endDate: 2023-05-25
     highlights:
-      - Conducted a toxicological and genotoxic study on glyphosate herbicide using anuran tadpoles (developmental stages 26–31)
-      - In-vitro performed micronucleus and comet assays to assess DNA damage
-      - In-vivo tests including LD₅₀ determination, survivability, and sub-lethal ecotoxicological analysis
+      - Conducted a *toxicological* and *genotoxic* study on Glyphosate herbicide using anuran tadpoles (developmental stages 26–31)
+      - Performed In-vitro micronucleus and comet assays to assess DNA damage
+      - Performed In-vivo tests including LD₅₀ determination, survivability, and sub-lethal ecotoxicological analysis
       - Gained practical skills in dose preparation, experimental design, slide preparation, staining, microscopy and statistical data analysis
-  - name: Nanoparticles and its Bioprospecting
+  - name: Nanoparticles and its Bioprospects
     url: 
     affiliation: Pondicherry University
     startDate: 2025-09-22
     endDate: "present"
     highlights:
-      - Synthesis of Silver nanoparticles from Mangroves, analysis and bioprospecting of the nanoparticles
-  # - name: Microplastic
+      - Researched on synthesis of Silver nanoparticles from Mangroves.
+      - Reviewed existing papers and solutions on analysis and bioprospecting of nanoparticles
 
 skills:
-  - category: Soft Skills
-    skills:
-      - Communication
-      - Critical Thinking
-      - Problem Solving
-      - Time Management
-      - Technical Writing
   - category: Lab
     skills:
-      - Bacterial culture and isolation from soil, animal and plants
+      - Bacterial Culture and Isolation
       - Bioprospecting
-      -  Nanoparticles synthesis
-      - Microplastic
-      - toxicology
+      - Nanoparticles Synthesis
+      - Microplastics
+      - Toxicology
   - category: Device and Techniques
     skills:
       - SDS PAGE
-      - Types of electron and Light Microscopes
+      - Electron and Light Microscopes
       - PCR 
-      - Types of Chromatography
-      - Agarose gel electrophoresis
-      - solid State Fermentation
-      - types of Chromatography
+      - Microtomy
+      - Chromatography
+      - Agarose Gel Electrophoresis
+      - Solid State Fermentation
       - Toxicity Assay
-  - category:	Bioinformatics
-    skills:
       - Blast Analysis
   - category: Software
     skills:
@@ -183,43 +175,32 @@ skills:
        - Power Point
        - Word
        - Excel
+  - category: Soft Skills
+    skills:
+      - Communication
+      - Critical Thinking
+      - Problem Solving
+      - Time Management
+      - Technical Writing
   - category: Miscellaneous
     skills:
+      - Field Sampling
       - Swimming
-      - Feild Sampling
-      - Art and Craft 
-  # - category: Technologies
-    # skills:
-      # - Zephyr RTOS
-      # - Embedded Systems
-      # - ROS2
-      # - Deeplearning
-      # - Computer Vision
-  # - category: Embedded Systems and Hardware
-    # skills:
-      # - STM32
-      # - Raspberry Pico
-      # - ESP32
-      # - Pixhawk
-      # - CAN
-      # - UART
-      # - I2C
-      # - SPI
-      # - USB3, USB4, PCIe, NVMe
 
 languages:
   - language: English
     fluency: Professional proficiency
   - language: Hindi
     fluency: Native Speaker
-  # - language: 
-    # fluency: Basic proficiency
+  - language: Bengali
+    fluency: Native Speaker
 
-# interests:
-  - Video Games
-  - Anime
-  - Reading Fictional and Fantasy novels
-  - Linux
+interests:
+  - Painting
+  - Snorkelling
+  - Photography
+  - Cooking
+  - Reading
 
 references:
   # You can comment out the entries below if you don't have any references
