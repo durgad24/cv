@@ -18,7 +18,7 @@ personal:
       username: durgad24
       url: https://github.com/durgad24
 
-about: Currently enrolled as final year master's student in Pondicherry University. Worked in Toxicology. Currently working on projects involving Microplastics and Nanoparticles.
+about: Currently enrolled as final year master's student in Pondicherry University. Worked in Toxicology. Currently working on project involving Microplastics.
 
 work:
   - organization: Kristu Jayantia College
@@ -45,7 +45,7 @@ education:
     honors:
       - 9 CGPA
     courses:
-      - Marine Microbiology, Biochemisty, Genetics, Aquaculture, Fisheries, Chemical and Physical Oceanography
+      - Marine Biotechnology, Marine Microbiology, Biochemisty, Genetics, Aquaculture, Fisheries, Chemical and Physical Oceanography
     highlights:
       - "*Electives*: EIA"
 
@@ -142,14 +142,14 @@ projects:
       - Performed In-vitro micronucleus and comet assays to assess DNA damage
       - Performed In-vivo tests including LD₅₀ determination, survivability, and sub-lethal ecotoxicological analysis
       - Gained practical skills in dose preparation, experimental design, slide preparation, staining, microscopy and statistical data analysis
-  - name: Nanoparticles and its Bioprospects
+  - name: Microplastic assessment in commercial fishes of Andaman and Nicobar Islands.
     url: 
     affiliation: Pondicherry University
     startDate: 2025-09-22
     endDate: "present"
     highlights:
-      - Researched on synthesis of Silver nanoparticles from Mangroves.
-      - Reviewed existing papers and solutions on analysis and bioprospecting of nanoparticles
+      - Isolation of microplastics from different organs of crab.
+      - Identification of the type of microplastic and  polymer composition.
 
 skills:
   - category: Lab
@@ -163,32 +163,30 @@ skills:
     skills:
       - SDS PAGE
       - Electron and Light Microscopes
-      - PCR 
+      - RT-PCR, qPCR 
       - Microtomy
-      - Chromatography
+      - TLC, Column Chromatography, HPLC
       - Agarose Gel Electrophoresis
       - Solid State Fermentation
       - Toxicity Assay
       - Blast Analysis
   - category: Software
     skills:
-       - QGIS
+       - QGIS and ArcGIS
+       - BLAST, MEGA
+       - R for Bioinformatics
        - Google Earth Engine
-       - ArcGIS
-       - C++
-       - Power Point
-       - Word
-       - Excel
+       - Power Point, Word, Excel
   - category: Soft Skills
     skills:
-      - Communication
+      - Communication and coordination
       - Critical Thinking
       - Problem Solving
       - Time Management
       - Technical Writing
   - category: Miscellaneous
     skills:
-      - Field Sampling
+      - Field Sampling for marine biology research
       - Swimming
 
 languages:
