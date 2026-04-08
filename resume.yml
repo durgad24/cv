@@ -161,6 +161,7 @@ skills:
       - Toxicology
   - category: Device and Techniques
     skills:
+      - Transect and quadrat sampling
       - SDS PAGE
       - Electron and Light Microscopes
       - RT-PCR, qPCR 
@@ -198,7 +199,7 @@ languages:
     fluency: Native Speaker
 
 interests:
-  - Painting
+  - Science Art
   - Snorkelling
   - Photography
   - Cooking
