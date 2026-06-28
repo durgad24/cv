@@ -21,6 +21,17 @@ personal:
 about: Currently enrolled as final year master's student in Pondicherry University. Worked in Toxicology. Currently working on project involving Microplastics.
 
 work:
+  - organization: Wildlife Avian and Reptile Rescue and Rehabilitation Centre
+    url: https://wildarrc.org/
+    location: Bangalore, India
+    positions:
+      - position: Wildlife Rehabilitator
+        startDate: 2026-06-01
+        endDate: present
+        highlights:
+            - Cared for neonatal animals, predatory birds, and small mammals through feeding, rehabilitation, and health monitoring.
+            - Prepared medications, antibiotics, IV fluids, and supportive treatments under veterinary supervision.
+            - Developed social media content to promote wildlife rehabilitation and conservation awareness.
   - organization: Kristu Jayantia College
     url: https://kristujayanti.edu.in/
     location: Bangalore, India
