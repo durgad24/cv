@@ -21,13 +21,24 @@ personal:
 about: Currently enrolled as final year master's student in Pondicherry University. Worked in Toxicology. Currently working on project involving Microplastics.
 
 work:
+  - organization: Gujarat Institute of Desert Ecology
+    url: https://gujaratdesertecology.com/
+    location: Bhuj, Kutch, Gujarat
+    positions: 
+      - position: Project Associate
+        startDate: 2026-08-29
+        endDate: present
+        highlights: 
+            - Performed chlorophyll extraction, physicochemical analysis of water and sediment, and microbiological analysis of total and fecal coliforms, parameters for environmental monitoring.
+            - Gained on-board sampling experience in offshore waters and intertidal environments, along with remote sensing and GIS-based.
+            - Conducted microplastic and heavy metal analysis in fish and environmental samples, including fish dissection and tissue/sample processing.
   - organization: Wildlife Avian and Reptile Rescue and Rehabilitation Centre
     url: https://wildarrc.org/
     location: Bangalore, India
     positions:
       - position: Wildlife Rehabilitator
         startDate: 2026-06-01
-        endDate: present
+        endDate: 2026-08-15
         highlights:
             - Cared for neonatal animals, predatory birds, and small mammals through feeding, rehabilitation, and health monitoring.
             - Prepared medications, antibiotics, IV fluids, and supportive treatments under veterinary supervision.
