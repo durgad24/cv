@@ -40,9 +40,9 @@ work:
         startDate: 2026-06-01
         endDate: 2026-08-15
         highlights:
-            - Cared for neonatal animals, predatory birds, and small mammals through feeding, rehabilitation, and health monitoring.
-            - Prepared medications, antibiotics, IV fluids, and supportive treatments under veterinary supervision.
-            - Developed social media content to promote wildlife rehabilitation and conservation awareness.
+            - Provided feeding, rehabilitation, and health monitoring for neonatal birds, and small mammals.
+            - Medications and health monitoring.
+            - Social media outreach and awareness sessions.
   - organization: Kristu Jayantia College
     url: https://kristujayanti.edu.in/
     location: Bangalore, India
@@ -67,9 +67,8 @@ education:
     honors:
       - 9.18 CGPA
     courses:
-      - Marine Biotechnology, Marine Microbiology, Biochemisty, Genetics, Aquaculture, Fisheries, Chemical and Physical Oceanography
-    highlights:
-      - "*Electives*: EIA"
+      - Marine EIA, Chemical and Physical Oceanography, Marine Biotechnology, Marine Microbiology, Biochemistry, Genetics, Aquaculture, Fisheries
+      
 
   - institution: Royal Global University
     url: https://www.rgu.ac/
@@ -81,7 +80,7 @@ education:
     honors: 
       - 8.3 CGPA 
     courses: 
-      - Immunology, Endocrinology, Genetics and Genomics, Molecular Biology, Developmental Biology, Evolutionary Biology, Communicative English, Behavioral Science
+      - Immunology, Endocrinology, Genetics and Genomics, Molecular Biology, Developmental Biology, Evolutionary Biology
     highlights:
       - "*Electives*: Business, Psychology, First-Aid"
 
@@ -93,17 +92,17 @@ affiliations:
     startDate: 2024-09-02
     endDate: 2025-04-20
     highlights:
-      - Part of organizing an annual cultural fest for the university, with responsibilites ranging from management, event scheduling to hosting.
-      - Designed a magazine and the logo for the cultural fest, Anekaragam.
-      - Was responsible for planning, organizing and hosting sports events for the fest.
-  - organization: Royal Global University
-    position: Volunteer Head
-    location: Guwahati, Assam, India
-    url: 
-    startDate: 2021-12-02
-    endDate: 2023-03-20
-    highlights:
-      - Managed registrations, accomodations and volunteering work for All India Inter University (Women and Men) Baseball Championship, 2022 and East Zone Inter University (Women and Men) Table Tennis Championship, 2021
+      - University Annual cultural fest organization and execution
+      - Designed a magazine
+      - Art and Cultural Club activity
+  - # organization: Royal Global University
+    # position: Volunteer Head
+    # location: Guwahati, Assam, India
+    # url: 
+    # startDate: 2021-12-02
+    # endDate: 2023-03-20
+    # highlights:
+      - Managed registrations, accommodations and volunteering work for All India Inter University (Women and Men) Baseball Championship, 2022 and East Zone Inter University (Women and Men) Table Tennis Championship, 2021
          
 awards:
   - title: 1st in Beauty from Waste Inter Univeristy Andaman College (ANCO) Fest
@@ -136,7 +135,7 @@ certificates:
     url: https://drive.google.com/file/d/1XoqAffOMCOAjWDJVeOUGxrYYsCOxmLIM/view?usp=drivesdk
   - name: "National Training Program in Development on Freshwater Pearl Culture for Entrepreneurship Development"
     date: 2022-11-13
-    issuer: Cotton University, Asssam
+    issuer: Cotton University, Assam
     url: https://drive.google.com/file/d/1kC-I3TK1kgJAamgYbt0YkNtynUNPbt90/view?usp=drivesdk
   - name: "Diploma in Fine Arts"
     date: 2017-09-10
@@ -165,7 +164,7 @@ projects:
     endDate: "present"
     highlights:
       - Studying the surface epibiontic richness and diversity
-      - Comparision of variation in epibiotic population in different species.
+      - Comparison of variation in epibiotic population in different species.
   - name: Microplastic assessment in commercial crabs of Andaman and Nicobar Islands.
     url: 
     affiliation: Pondicherry University
@@ -175,13 +174,13 @@ projects:
       - Isolation and characterization of Microplastics from commercial crab
       - Bioaccumulation and Biomagnification of microplastics
       - Comparative analysis of Microplastics in the crabs of different niche
-  - name : Toxic and Genotoxic effects of Glyphosate pestiscide in a anuran tadpole  
+  - name : Toxic and Genotoxic effects of Glyphosate pesticide in a anuran tadpoles 
     url:
     affiliation: Royal Global University
     startDate: 2022-12-01
     endDate: 2023-05-25
     highlights:
-      - Lab rearing and maintainence of anuran eggs and tadpoles (developmental stages 26–31)
+      - Lab rearing and maintenence of anuran eggs and tadpoles (developmental stages 26–31)
       - Performed In-vitro micronucleus and comet assays to assess DNA damage
       - Performed In-vivo tests including LD₅₀ determination, survivability, and sub-lethal ecotoxicological analysis
       - Gained practical skills in dose preparation, experimental design, slide preparation, staining, microscopy and statistical data analysis
@@ -190,7 +189,7 @@ projects:
 skills:
   - category: Lab
     skills:
-      - Physiochemical Analysis of water and soil
+      - Physiochemical Analysis of water and sediment
       - Microplastics, heavy metals, Nanoparticles and toxicity
       - Phyto- and Marine Microbiology
       - Tadpole Rearing and Maintenance in lab
@@ -199,7 +198,7 @@ skills:
     skills:
       - Transect and quadrat sampling
       - SDS PAGE
-      - Electron and Light Microscopes
+      - Electron and Light Microscopy
       - RT-PCR, qPCR 
       - Microtomy
       - TLC, Column Chromatography, HPLC
@@ -223,7 +222,7 @@ skills:
       - Technical Writing
   - category: Miscellaneous
     skills:
-      - Field Sampling for Micro and macro seaweeds, sea slugs, crabs, planktons
+      - Field Sampling
       - Swimming and scuba
 
 languages:
