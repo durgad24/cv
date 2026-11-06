@@ -68,7 +68,6 @@ education:
       - 9.18 CGPA
     courses:
       - Marine EIA, Chemical and Physical Oceanography, Marine Biotechnology, Marine Microbiology, Biochemistry, Genetics, Aquaculture, Fisheries
-      
 
   - institution: Royal Global University
     url: https://www.rgu.ac/
@@ -82,7 +81,7 @@ education:
     courses: 
       - Immunology, Endocrinology, Genetics and Genomics, Molecular Biology, Developmental Biology, Evolutionary Biology
     highlights:
-      - "*Electives*: Business, Psychology, First-Aid"
+      # - "*Electives*: Business, Psychology, First-Aid"
 
 affiliations:
   - organization: Campus Representative Committee
@@ -184,7 +183,6 @@ projects:
       - Performed In-vitro micronucleus and comet assays to assess DNA damage
       - Performed In-vivo tests including LD₅₀ determination, survivability, and sub-lethal ecotoxicological analysis
       - Gained practical skills in dose preparation, experimental design, slide preparation, staining, microscopy and statistical data analysis
-  
 
 skills:
   - category: Lab
