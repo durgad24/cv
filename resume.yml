@@ -6,9 +6,9 @@ personal:
   phone: (+91) 88223 37125
   url: 
   location:
-    city: Port Blair
-    region: Andaman and Nicobar Islands
-    postalCode: 7441102
+    city: Bhuj
+    region: Gujarat
+    postalCode: 370001
     country: India
   profiles:
     - network: LinkedIn
@@ -18,7 +18,7 @@ personal:
       username: durgad24
       url: https://github.com/durgad24
 
-about: Currently enrolled as final year master's student in Pondicherry University. Worked in Toxicology. Currently working on project involving Microplastics.
+about: Currently working as a Project Associate in Gujarat Institute of Desert Ecology. Recently completed master's in Marine Biology. Worked in Microplastics, Ecotoxicology, Remote Sensing and wildlife Rehabilitation. Currently working on project involving Coastal Mapping and marine epibiotic ecology.
 
 work:
   - organization: Gujarat Institute of Desert Ecology
@@ -30,7 +30,7 @@ work:
         endDate: present
         highlights: 
             - Performed chlorophyll extraction, physicochemical analysis of water and sediment, and microbiological analysis of total and fecal coliforms, parameters for environmental monitoring.
-            - Gained on-board sampling experience in offshore waters and intertidal environments, along with remote sensing and GIS-based.
+            - Gained on-board sampling experience in offshore waters and intertidal environments, along with remote sensing and GIS.
             - Conducted microplastic and heavy metal analysis in fish and environmental samples, including fish dissection and tissue/sample processing.
   - organization: Wildlife Avian and Reptile Rescue and Rehabilitation Centre
     url: https://wildarrc.org/
@@ -62,10 +62,10 @@ education:
     area: Ocean Studies and Marine Biology
     studyType: M.Sc.
     startDate: 2024-07-28
-    endDate: "present"
+    endDate: 2026-04-30
     location: Port Blair, Andaman and Nicobar Islands
     honors:
-      - 9 CGPA
+      - 9.18 CGPA
     courses:
       - Marine Biotechnology, Marine Microbiology, Biochemisty, Genetics, Aquaculture, Fisheries, Chemical and Physical Oceanography
     highlights:
@@ -151,40 +151,50 @@ certificates:
     issuer: The Natures Eye
     url: https://drive.google.com/file/d/1X784lOGp_NhdAsj5AWWP8CRKoxGknWm-/view?usp=drivesdk
 
-publications:
+#publications:
   # - name: A convolutional neural network for predicting Greenland glacier melt and glacial water flow
   #   publisher: Theoretical and Computational Fluid Dynamics
   #   releaseDate: 2020-09-30
   #   url: https://example.com
 
 projects:
-  - name: Toxic and Genotoxic effects of Glyphosate on Anuran Tadpole
+  - name: Epibiotic study on intertidal invertebrates
+    url: 
+    affiliation: Gujarat Institute of Desert Ecology
+    startDate: 2026-11-18
+    endDate: present
+    highlights:
+      - Studying the surface epibiontic richness and diversity
+      - Comparision of variation in epibiotic population in different species.
+  - name: Microplastic assessment in commercial crabs of Andaman and Nicobar Islands.
+    url: 
+    affiliation: Pondicherry University
+    startDate: 2025-09-22
+    endDate: 2026-04-30
+    highlights:
+      - Isolation and characterization of Microplastics from commercial crab
+      - Bioaccumulation and Biomagnification of microplastics
+      - Comparative analysis of Microplastics in the crabs of different niche
+  - name : Toxic and Genotoxic effects of Glyphosate pestiscide in a anuran tadpole  
     url:
     affiliation: Royal Global University
     startDate: 2022-12-01
     endDate: 2023-05-25
     highlights:
-      - Conducted a *toxicological* and *genotoxic* study on Glyphosate herbicide using anuran tadpoles (developmental stages 26–31)
+      - Lab rearing and maintainence of anuran eggs and tadpoles (developmental stages 26–31)
       - Performed In-vitro micronucleus and comet assays to assess DNA damage
       - Performed In-vivo tests including LD₅₀ determination, survivability, and sub-lethal ecotoxicological analysis
       - Gained practical skills in dose preparation, experimental design, slide preparation, staining, microscopy and statistical data analysis
-  - name: Microplastic assessment in commercial fishes of Andaman and Nicobar Islands.
-    url: 
-    affiliation: Pondicherry University
-    startDate: 2025-09-22
-    endDate: "present"
-    highlights:
-      - Isolation of microplastics from different organs of crab.
-      - Identification of the type of microplastic and  polymer composition.
+  
 
 skills:
   - category: Lab
     skills:
-      - Bacterial Culture and Isolation
-      - Bioprospecting
-      - Nanoparticles Synthesis
-      - Microplastics
-      - Toxicology
+      - Physiochemical Analysis of water and soil
+      - Microplastics, heavy metals, Nanoparticles and toxicity
+      - Phyto- and Marine Microbiology
+      - Tadpole Rearing and Maintenance in lab
+      - Invertebrates taxonomy 
   - category: Device and Techniques
     skills:
       - Transect and quadrat sampling
@@ -213,8 +223,8 @@ skills:
       - Technical Writing
   - category: Miscellaneous
     skills:
-      - Field Sampling for marine biology research
-      - Swimming
+      - Field Sampling for Micro and macro seaweeds, sea slugs, crabs, planktons
+      - Swimming and scuba
 
 languages:
   - language: English
