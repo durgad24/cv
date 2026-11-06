@@ -27,7 +27,7 @@ work:
     positions: 
       - position: Project Associate
         startDate: 2026-08-29
-        endDate: present
+        endDate: "present"
         highlights: 
             - Performed chlorophyll extraction, physicochemical analysis of water and sediment, and microbiological analysis of total and fecal coliforms, parameters for environmental monitoring.
             - Gained on-board sampling experience in offshore waters and intertidal environments, along with remote sensing and GIS.
@@ -151,7 +151,7 @@ certificates:
     issuer: The Natures Eye
     url: https://drive.google.com/file/d/1X784lOGp_NhdAsj5AWWP8CRKoxGknWm-/view?usp=drivesdk
 
-#publications:
+publications:
   # - name: A convolutional neural network for predicting Greenland glacier melt and glacial water flow
   #   publisher: Theoretical and Computational Fluid Dynamics
   #   releaseDate: 2020-09-30
@@ -162,7 +162,7 @@ projects:
     url: 
     affiliation: Gujarat Institute of Desert Ecology
     startDate: 2026-11-18
-    endDate: present
+    endDate: "present"
     highlights:
       - Studying the surface epibiontic richness and diversity
       - Comparision of variation in epibiotic population in different species.
