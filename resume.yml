@@ -29,9 +29,9 @@ work:
         startDate: 2026-08-29
         endDate: "present"
         highlights: 
-            - Performed chlorophyll extraction, physicochemical analysis of water and sediment, and microbiological analysis of total and fecal coliforms, parameters for environmental monitoring.
+            - Performed chlorophyll extraction, physicochemical analysis of water and sediment, and Water quality testing, environmental monitoring.
             - Gained on-board sampling experience in offshore waters and intertidal environments, along with remote sensing and GIS.
-            - Conducted microplastic and heavy metal analysis in fish and environmental samples, including fish dissection and tissue/sample processing.
+            - Conducted microplastic and heavy metal analysis in fish and environmental samples.
   - organization: Wildlife Avian and Reptile Rescue and Rehabilitation Centre
     url: https://wildarrc.org/
     location: Bangalore, India
@@ -68,7 +68,6 @@ education:
       - 9.18 CGPA
     courses:
       - Marine EIA, Chemical and Physical Oceanography, Marine Biotechnology, Marine Microbiology, Biochemistry, Genetics, Aquaculture, Fisheries
-
   - institution: Royal Global University
     url: https://www.rgu.ac/
     area: Zoology
@@ -81,7 +80,6 @@ education:
     courses: 
       - Immunology, Endocrinology, Genetics and Genomics, Molecular Biology, Developmental Biology, Evolutionary Biology
     highlights:
-      # - "*Electives*: Business, Psychology, First-Aid"
 
 affiliations:
   - organization: Campus Representative Committee
@@ -92,17 +90,9 @@ affiliations:
     endDate: 2025-04-20
     highlights:
       - University Annual cultural fest organization and execution
-      - Designed a magazine
+      - Magazine Design
       - Art and Cultural Club activity
-    # - organization: Royal Global University
-    #   position: Volunteer Head
-    #   location: Guwahati, Assam, India
-    #   url: 
-    #   startDate: 2021-12-02
-    #   endDate: 2023-03-20
-    #   highlights:
-    # - Managed registrations, accommodations and volunteering work for All India Inter University (Women and Men) Baseball Championship, 2022 and East Zone Inter University (Women and Men) Table Tennis Championship, 2021
-         
+   
 awards:
   - title: 1st in Beauty from Waste Inter Univeristy Andaman College (ANCO) Fest
     date: 2025-05-21
@@ -163,7 +153,7 @@ projects:
     endDate: "present"
     highlights:
       - Studying the surface epibiontic richness and diversity
-      - Comparison of variation in epibiotic population in different species.
+      - Comparison of variation in epibiotic population in different species
   - name: Microplastic assessment in commercial crabs of Andaman and Nicobar Islands.
     url: 
     affiliation: Pondicherry University
@@ -220,8 +210,7 @@ skills:
       - Technical Writing
   - category: Miscellaneous
     skills:
-      - Field Sampling
-      - Swimming and scuba
+      - Swimming
 
 languages:
   - language: English
