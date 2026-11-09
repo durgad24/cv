@@ -4,7 +4,7 @@ personal:
   name: Durga Rani Das
   email: durgaranidas24@gmail.com
   phone: (+91) 88223 37125
-  url: 
+  url:
   location:
     city: Bhuj
     region: Gujarat
@@ -24,14 +24,14 @@ work:
   - organization: Gujarat Institute of Desert Ecology
     url: https://gujaratdesertecology.com/
     location: Bhuj, Kutch, Gujarat
-    positions: 
+    positions:
       - position: Project Associate
         startDate: 2026-08-29
         endDate: "present"
-        highlights: 
-            - Performed chlorophyll extraction, physicochemical analysis of water and sediment, and Water quality testing, environmental monitoring.
-            - Gained on-board sampling experience in offshore waters and intertidal environments, along with remote sensing and GIS.
-            - Conducted microplastic and heavy metal analysis in fish and environmental samples.
+        highlights:
+          - Performed chlorophyll extraction, physicochemical analysis of water and sediment, and Water quality testing, environmental monitoring.
+          - Gained on-board sampling experience in offshore waters and intertidal environments, along with remote sensing and GIS.
+          - Conducted microplastic and heavy metal analysis in fish and environmental samples.
   - organization: Wildlife Avian and Reptile Rescue and Rehabilitation Centre
     url: https://wildarrc.org/
     location: Bangalore, India
@@ -40,9 +40,9 @@ work:
         startDate: 2026-06-01
         endDate: 2026-08-15
         highlights:
-            - Provided feeding, rehabilitation, and health monitoring for neonatal birds, and small mammals.
-            - Medications and health monitoring.
-            - Social media outreach and awareness sessions.
+          - Provided feeding, rehabilitation, and health monitoring for neonatal birds, and small mammals.
+          - Medications and health monitoring.
+          - Social media outreach and awareness sessions.
   - organization: Kristu Jayantia College
     url: https://kristujayanti.edu.in/
     location: Bangalore, India
@@ -51,10 +51,10 @@ work:
         startDate: 2025-06-10
         endDate: 2025-07-19
         highlights:
-            - Worked on isolation and pure culture of plant-associated bacteria and fungi.
-            - Prepared antimicrobial assays and glycerol stock.
-            - Worked on biochemical characterization (starch hydrolysis,TSI, broth test) and DNA extraction with quantification and quality check.
-            - Performed nanoparticle synthesis and FTIR analysis.
+          - Worked on isolation and pure culture of plant-associated bacteria and fungi.
+          - Prepared antimicrobial assays and glycerol stock.
+          - Worked on biochemical characterization (starch hydrolysis,TSI, broth test) and DNA extraction with quantification and quality check.
+          - Performed nanoparticle synthesis and FTIR analysis.
 
 education:
   - institution: Pondicherry University
@@ -68,6 +68,7 @@ education:
       - 9.18 CGPA
     courses:
       - Marine EIA, Chemical and Physical Oceanography, Marine Biotechnology, Marine Microbiology, Biochemistry, Genetics, Aquaculture, Fisheries
+    highlights:
   - institution: Royal Global University
     url: https://www.rgu.ac/
     area: Zoology
@@ -75,9 +76,9 @@ education:
     startDate: 2020-08-23
     endDate: 2023-10-30
     location: Guwahati, Assam
-    honors: 
-      - 8.3 CGPA 
-    courses: 
+    honors:
+      - 8.3 CGPA
+    courses:
       - Immunology, Endocrinology, Genetics and Genomics, Molecular Biology, Developmental Biology, Evolutionary Biology
     highlights:
 
@@ -85,25 +86,25 @@ affiliations:
   - organization: Campus Representative Committee
     position: Art and Culture Representative
     location: Pondicherry University, India
-    url: 
+    url:
     startDate: 2024-09-02
     endDate: 2025-04-20
     highlights:
       - University Annual cultural fest organization and execution
       - Magazine Design
       - Art and Cultural Club activity
-   
+
 awards:
   - title: 1st in Beauty from Waste Inter Univeristy Andaman College (ANCO) Fest
     date: 2025-05-21
     issuer: Andaman College
-    url: 
+    url:
     location: Port Blair, Andaman and Nicobar Islands
     highlights:
-  - title:  1st in Painting cum Workshop, Seva Parv 2025
+  - title: 1st in Painting cum Workshop, Seva Parv 2025
     date: 2025-10-07
     issuer: Ministry of Culture, Government of India, A&N Administration, Director of Arts and Culture
-    url: 
+    url:
     location: Port Blair, Andaman and Nicobar Islands
     highlights:
   - title: 1st in Intra University Kabaddi Competition
@@ -147,7 +148,7 @@ publications:
 
 projects:
   - name: Epibiotic study on intertidal invertebrates
-    url: 
+    url:
     affiliation: Gujarat Institute of Desert Ecology
     startDate: 2026-11-18
     endDate: "present"
@@ -155,7 +156,7 @@ projects:
       - Studying the surface epibiontic richness and diversity
       - Comparison of variation in epibiotic population in different species
   - name: Microplastic assessment in commercial crabs of Andaman and Nicobar Islands.
-    url: 
+    url:
     affiliation: Pondicherry University
     startDate: 2025-09-22
     endDate: 2026-04-30
@@ -163,7 +164,7 @@ projects:
       - Isolation and characterization of Microplastics from commercial crab
       - Bioaccumulation and Biomagnification of microplastics
       - Comparative analysis of Microplastics in the crabs of different niche
-  - name : Toxic and Genotoxic effects of Glyphosate pesticide in a anuran tadpoles 
+  - name: Toxic and Genotoxic effects of Glyphosate pesticide in a anuran tadpoles
     url:
     affiliation: Royal Global University
     startDate: 2022-12-01
@@ -181,13 +182,13 @@ skills:
       - Microplastics, heavy metals, Nanoparticles and toxicity
       - Phyto- and Marine Microbiology
       - Tadpole Rearing and Maintenance in lab
-      - Invertebrates taxonomy 
+      - Invertebrates taxonomy
   - category: Device and Techniques
     skills:
       - Transect and quadrat sampling
       - SDS PAGE
       - Electron and Light Microscopy
-      - RT-PCR, qPCR 
+      - RT-PCR, qPCR
       - Microtomy
       - TLC, Column Chromatography, HPLC
       - Agarose Gel Electrophoresis
@@ -196,11 +197,11 @@ skills:
       - Blast Analysis
   - category: Software
     skills:
-       - QGIS, ArcGIS and Google Earth Engine
-       - BLAST, MEGA
-       - R for Bioinformatics
-       - Canva
-       - Power Point, Word, Excel
+      - QGIS, ArcGIS and Google Earth Engine
+      - BLAST, MEGA
+      - R for Bioinformatics
+      - Canva
+      - Power Point, Word, Excel
   - category: Soft Skills
     skills:
       - Communication and coordination
